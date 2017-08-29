@@ -1,0 +1,9 @@
+---
+buildName: "orders"
+links:
+  Git: "https://github.com/JamieChe/orders.git"
+  Job: "http://jenkins.fabric8.cassini.seli.gic.ericsson.se/job/orders"
+  Testing: "http://10.111.44.206:80/kubernetes/pods?namespace=fabric8-testing"
+environments:
+  Testing: "fabric8-testing"
+useLocalFlow: true
